@@ -88,14 +88,13 @@ For a more detail description of this project, see our project website at at htt
 
 
 ## Feedback/Comments
-Feel free to provide your comments at our [facebook community]( https://www.facebook.com/groups/125541663548/). See also [old/archived discussions](https://sourceforge.net/p/mars-sim/discussion/)
+
 
 
 ## Issues/Tickets
 * Current : https://github.com/mars-sim/mars-sim/issues
 * Past/Archived : https://sourceforge.net/p/mars-sim/tickets/search/?q=status%3Awont-fix+or+status%3Aclosed
 
-Help us by filling in the info below when submitting an issue
 
 **Describe the bug**
  - A clear and concise description of what the bug is.
@@ -132,8 +131,6 @@ e.g. Include the followings :
 
 > Note 2 : if you double-click the jar file to start mars-sim and nothing shows up, it's possible that an instance of a JVM be created but it fails to load MainScene. In Windows OS, you may hit Ctrl+ESC to bring up the Task Manager and scroll down to see any "orphaned" instances of `Java(TM) Platform SE binary` running in the background. Be sure you clear them off the memory by right-clicking on it and choosing `End Task`. 
 
-## How to contribute 
-We welcome anyone to contribute to mars-sim in terms of ideas, concepts and coding. If you would like to contribute to coding, see this [wiki](https://github.com/mars-sim/mars-sim/wiki/Development-Environment) for developers. Also, we will answer your questions in our [Gitter chatroom](https://gitter.im/mokun/mars-sim). 
 
 
 ## Official Codebase
